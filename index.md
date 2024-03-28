@@ -1,12 +1,15 @@
 ---
-title: Welcome to my blog
+title: Welcome to the world of F1
 ---
 
-Welcome to my blog all about the 2024 F1 season. For each race weekend there will be a post about the race.
+# Formula 1
 
+Formula 1 (F1) is the highest class of single-seater auto racing sanctioned by the Fédération Internationale de l'Automobile (FIA), the governing body for motorsport worldwide. F1 is known for its high speeds, cutting-edge technology, and glamorous events. Here's a brief overview:
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
 {{ post.excerpt }}
 [Read more...]({{ post.url }})
 {% endfor %}
+
+Overall, Formula 1 is a thrilling and prestigious sport that combines speed, technology, and human skill in a captivating spectacle enjoyed by millions around the world.
