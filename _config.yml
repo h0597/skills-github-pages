@@ -1,2 +1,2 @@
-theme: minima
+theme: jekyll-theme-cayman
 permalink: /skills-github-pages/blog/:year/:month/:day/:title.html
