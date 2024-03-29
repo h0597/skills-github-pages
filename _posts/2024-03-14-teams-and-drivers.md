@@ -1,7 +1,7 @@
 ---
 title: "Teams and Drivers"
 date: 2024-03-14
-layout: post
+layout: default
 ---
 
 # The Teams and Drivers
