@@ -1,6 +1,7 @@
 ---
 title: "Regulations"
 date: 2024-03-18
+layout: default
 ---
 
 # The Regulations
