@@ -2,7 +2,6 @@
 title: "Global Audience"
 date: 2024-03-25
 layout: post
-baseurl: /skills-github-pages
 ---
 
 # The Global Audience
