@@ -1,7 +1,6 @@
 ---
 title: "Regulations"
 date: 2024-03-18
-layout: post
 ---
 
 # The Regulations
